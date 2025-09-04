@@ -1,0 +1,8 @@
+C:\Net_Core\BTVN\obj\Debug\net9.0\BTVN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Net_Core\BTVN\obj\Debug\net9.0\BTVN.AssemblyInfoInputs.cache
+C:\Net_Core\BTVN\obj\Debug\net9.0\BTVN.AssemblyInfo.cs
+C:\Net_Core\BTVN\obj\Debug\net9.0\BTVN.csproj.CoreCompileInputs.cache
+C:\Net_Core\BTVN\obj\Debug\net9.0\BTVN.MvcApplicationPartsAssemblyInfo.cache
+C:\Net_Core\BTVN\obj\Debug\net9.0\BTVN.RazorAssemblyInfo.cache
+C:\Net_Core\BTVN\obj\Debug\net9.0\BTVN.RazorAssemblyInfo.cs
+C:\Net_Core\BTVN\obj\Debug\net9.0\BTVN.sourcelink.json
