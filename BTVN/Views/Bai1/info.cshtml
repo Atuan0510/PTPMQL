@@ -1,0 +1,24 @@
+@{
+    ViewData["Title"] = "Bài 1 - Nhập năm sinh";
+}
+
+<h2>Bài 1: Nhập thông tin người dùng</h2>
+
+<form asp-action="Bai1" method="post">
+    <div>
+        <label>Họ tên:</label>
+        <input type="text" name="Name" required />
+    </div>
+    <div>
+        <label>Năm sinh:</label>
+        <input type="number" name="YearOfBirth" required />
+    </div>
+    <button type="submit">Xem kết quả</button>
+</form>
+
+@if (ViewBag.Name != null)
+{
+    <h3>Kết quả:</h3>
+    <p>Họ tên: <b>@ViewBag.Name</b></p>
+    <p>Tuổi: <b>@ViewBag.Age</b></p>
+}
